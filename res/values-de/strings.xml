@@ -1473,4 +1473,11 @@ Der Datenverbrauch wird von Ihrem Tablet berechnet und kann von der Abrechnung I
     <string name="backup_pw_cancel_button_text">Abbrechen</string>
     <string name="percentage">%d%%</string>
     <string name="additional_system_update_settings_list_item_title">Zusätzliche Systemupdates</string>
+	<string name="usb_eject">Unmount USB-Stick</string>
+    <string name="usb_eject_summary">Unmount, der USB-Stick kann sicher entfernt werden</string>
+    <string name="usb_insert_summary">Einen USB-Stick anschließen zum mounten</string>
+    <string name="usb_mount">Mount USB-Stick</string>
+    <string name="dlg_confirm_unmount_usb_title">Unmount USB-Stick?</string>
+    <string name="dlg_confirm_unmount_usb_text">Wenn Sie den USB-Stick unmounten, werden geöffnete Programme geschlossen. Dies kann zu Instabilität führen.</string>
+    <string name="unmount_usb_inform_text">USB-Stick wird unmounted.</string>
 </resources>
