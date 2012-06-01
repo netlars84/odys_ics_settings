@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/usbhost_mode_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/usbhost_mode_title" />
+    <CheckBoxPreference android:title="@string/usbhost_mode_device_title" android:key="usbhost_device" android:summary="@string/usbhost_mode_device_summery" />
+    <CheckBoxPreference android:title="@string/usbhost_mode_host_title" android:key="usbhost_host" android:summary="@string/usbhost_mode_host_summery" />
+</PreferenceScreen>

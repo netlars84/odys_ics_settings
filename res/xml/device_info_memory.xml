@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/storage_settings_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="FLASH" />
+    <Preference android:title="Total space" android:key="total_space" android:summary="" style="?android:preferenceInformationStyle" />
+    <Preference android:title="FIRMWARE" android:key="firmware" android:summary="1.37GB" style="?android:preferenceInformationStyle" />
+</PreferenceScreen>
