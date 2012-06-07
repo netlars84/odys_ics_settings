@@ -662,8 +662,8 @@ Möglicherweise falsche PIN."</string>
     <string name="sd_insert_summary">SD-Karte zur Bereitstellung einlegen</string>
     <string name="sd_mount">SD-Karte bereitstellen</string>
     <string name="sd_mount_summary" />
-    <string name="sd_format">SD-Karte löschen</string>
-    <string name="sd_format_summary">Löscht sämtliche Daten wie Musik und Fotos von der SD-Karte</string>
+    <string name="sd_format">Speichermedium löschen</string>
+    <string name="sd_format_summary">Löscht sämtliche Daten wie Musik und Fotos von dem Speichermedium</string>
     <string name="read_only">" (schreibgeschützt)"</string>
     <string name="dlg_confirm_unmount_title">SD-Karte entnehmen?</string>
     <string name="dlg_confirm_unmount_text">Wenn Sie die SD-Karte entfernen, werden einige von Ihnen verwendete Apps angehalten und sind nicht mehr verfügbar, bis Sie die SD-Karte wieder einsetzen.</string>
@@ -747,11 +747,11 @@ Um auch Musik, Bilder und sonstige Nutzerdaten zu löschen, muss die "<b>SD-Kart
     <string name="master_clear_gesture_explanation">Sie müssen Ihr Entsperrungsmuster eingeben, um das Zurücksetzen auf die Werkseinstellungen zu bestätigen.</string>
     <string name="master_clear_failed">Die Zurücksetzung konnte nicht durchgeführt werden, da der Dienst zur Systembereinigung nicht verfügbar ist.</string>
     <string name="master_clear_confirm_title">Zurücksetzen?</string>
-    <string name="media_format_title">SD-Karte löschen</string>
-    <string name="media_format_summary">Löscht alle Daten auf der SD-Karte</string>
-    <string name="media_format_desc">SD-Karte löschen? Sie verlieren damit <b>alle</b> Daten auf der Karte!</string>
-    <string name="media_format_button_text">SD-Karte löschen</string>
-    <string name="media_format_final_desc">SD-Karte und alle darauf gespeicherten Dateien löschen? Die Aktion kann nicht rückgängig gemacht werden!</string>
+    <string name="media_format_title">Speichermedium löschen</string>
+    <string name="media_format_summary">Löscht alle Daten auf dem Speichermedium</string>
+    <string name="media_format_desc">Speichermedium löschen? Sie verlieren damit <b>alle</b> Daten auf dem Medium!</string>
+    <string name="media_format_button_text">Speichermedium löschen</string>
+    <string name="media_format_final_desc">Speichermedium und alle darauf gespeicherten Dateien löschen? Die Aktion kann nicht rückgängig gemacht werden!</string>
     <string name="media_format_final_button_text">Alles löschen</string>
     <string name="media_format_gesture_prompt">Bitte zeichnen Sie Ihr Entsperrungsmuster.</string>
     <string name="media_format_gesture_explanation">Sie müssen Ihr Entsperrungsmuster zeichnen, um das Löschen der SD-Karte zu bestätigen.</string>
@@ -1473,11 +1473,11 @@ Der Datenverbrauch wird von Ihrem Tablet berechnet und kann von der Abrechnung I
     <string name="backup_pw_cancel_button_text">Abbrechen</string>
     <string name="percentage">%d%%</string>
     <string name="additional_system_update_settings_list_item_title">Zusätzliche Systemupdates</string>
-	<string name="usb_eject">Unmount USB-Stick</string>
-    <string name="usb_eject_summary">Unmount, der USB-Stick kann sicher entfernt werden</string>
-    <string name="usb_insert_summary">Einen USB-Stick anschließen zum mounten</string>
-    <string name="usb_mount">Mount USB-Stick</string>
-    <string name="dlg_confirm_unmount_usb_title">Unmount USB-Stick?</string>
-    <string name="dlg_confirm_unmount_usb_text">Wenn Sie den USB-Stick unmounten, werden geöffnete Programme geschlossen. Dies kann zu Instabilität führen.</string>
-    <string name="unmount_usb_inform_text">USB-Stick wird unmounted.</string>
+    <string name="usb_eject">USB Medium entnehmen</string>
+    <string name="usb_eject_summary">USB Medium trennen, damit Sie es sicher entfernen können</string>
+    <string name="usb_insert_summary">USB Medium zur Bereitstellung anschließen</string>
+    <string name="usb_mount">USB Medium bereitstellen</string>
+    <string name="dlg_confirm_unmount_usb_title">USB Medium entnehmen?</string>
+    <string name="dlg_confirm_unmount_usb_text">Wenn Sie das USB Medium entfernen, werden einige von Ihnen verwendete Apps angehalten und sind nicht mehr verfügbar, bis Sie das USB Medium wieder anschließen.</string>
+    <string name="unmount_usb_inform_text">USB Medium wird getrennt.</string>
 </resources>
